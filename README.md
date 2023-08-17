@@ -1,4 +1,4 @@
-# READ AND WRITE AN IMAGE
+![Screenshot from 2023-08-17 21-12-56](https://github.com/Dhanudhanaraj/READ-AND-WRITE-IMAGE/assets/119218812/ea32ffa3-307f-4717-ae56-ebc8df296629)# READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 i) Read, display, and write an image.
@@ -74,24 +74,32 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-/home/sec/Pictures/Screenshots/Screenshot from 2023-08-17 20-52-40.png
+![Screenshot from 2023-08-17 20-52-40](https://github.com/Dhanudhanaraj/READ-AND-WRITE-IMAGE/assets/119218812/34bb22fc-0d74-4b7f-ab85-6f2febe1aa35)
+
+
 
 
 ### ii)Write the image
+![Screenshot from 2023-08-17 21-12-56](https://github.com/Dhanudhanaraj/READ-AND-WRITE-IMAGE/assets/119218812/1ac27797-9da9-465b-8ce7-7cb0cdb99c9f)
 
-/home/sec/Pictures/Screenshots/Screenshot from 2023-08-17 21-12-56.png
+
+
 
 ### iii)Shape of the Image
 
-/home/sec/Pictures/Screenshots/Screenshot from 2023-08-17 21-08-02.png
+![Screenshot from 2023-08-17 21-08-02](https://github.com/Dhanudhanaraj/READ-AND-WRITE-IMAGE/assets/119218812/a5c28592-fb49-48ad-9fcc-21621b9ddc94)
+
 
 ### iv)Access rows and columns
+![Screenshot from 2023-08-17 20-55-12](https://github.com/Dhanudhanaraj/READ-AND-WRITE-IMAGE/assets/119218812/7b896850-4cc3-422a-90e8-4b47dc35a6ef)
 
-/home/sec/Pictures/Screenshots/Screenshot from 2023-08-17 20-55-12.png
+
 
 ### v)Cut and paste portion of image
+![Screenshot from 2023-08-17 20-54-41](https://github.com/Dhanudhanaraj/READ-AND-WRITE-IMAGE/assets/119218812/3e676b9a-d158-4bc4-b690-c9d12d9dd30d)
 
-/home/sec/Pictures/Screenshots/Screenshot from 2023-08-17 20-54-41.png
+
+
 
 ## Result:
 
